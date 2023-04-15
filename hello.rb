@@ -10,4 +10,16 @@ MYCONSTANT = "hello"
 
 # Identifying a Ruby Variable Type
 
+y = 10
+
+print y.kind_of? Integer
+
+print y.class
+
+s = "hello"
+
+print s.class
+
+
+
 
